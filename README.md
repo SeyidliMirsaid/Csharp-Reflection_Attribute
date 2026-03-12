@@ -3,6 +3,7 @@
 
 ## Resofurces
 - (https://www.youtube.com/watch?v=-f7NmLWSIMU&list=PL8uXoSVYVb8TalGgO6vWd2dfyPkuNJC83&index=36)
+- (https://dev.to/chakewitz/c-reflection-and-attributes-beyond-the-basics-2dd1) 
 - Pro.CSharp.10.with.NET.6.pdf
 
 ## Mövzular
